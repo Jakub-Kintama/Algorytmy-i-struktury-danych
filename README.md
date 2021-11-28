@@ -1,6 +1,6 @@
-<header>Jakub Krzynowek s22835<header>
+>Jakub Krzynowek s22835
 
-<h>Analiza Algorytmów Sortowania<h>
+Analiza Algorytmów Sortowania
   
 1. Przebieg doświadczenia
 Doświadczenie polegało na napisaniu czterech różnych algorytmów sortujących oraz
@@ -20,12 +20,12 @@ HeapSort 1,5s 1,9s 1,1s 1,5s
 QuickSort 0,2s 0,2s 0,2s 0,2s
   
 3. Algorytmy uporządkowane według średniego czasu oraz ich złożoności:
-  1. QuickSort – (n log(n))
-  2. MergeSort - (n log(n))
-  3. HeapSort – (n log(n))
-  4. InsertionSort - (n^2)
-  5. SelectionSort - (n^2)
-  6. BubbleSort - (n^2)
+  - QuickSort – (n log(n)) <br>
+  - MergeSort - (n log(n)) <br>
+  - HeapSort – (n log(n)) <br>
+  - InsertionSort - (n^2) <br>
+  - SelectionSort - (n^2) <br>
+  - BubbleSort - (n^2) <br>
   
 4. Analiza wyników
 - QuickSort – Najszybszy algorytm sortujący, idealny przykład działania idei „dziel i zwyciężaj”
